@@ -1,0 +1,12 @@
+id: theme.seven.mobile
+uuid: 64c61b9d-5929-46fd-995a-907cfb1fd518
+name: mobile
+label: mobile
+mediaQuery: '(min-width: 0em)'
+source: seven
+sourceType: theme
+weight: '0'
+multipliers:
+  1x: 1x
+status: '1'
+langcode: und

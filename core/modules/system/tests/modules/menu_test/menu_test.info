@@ -1,0 +1,15 @@
+name = "Hook menu tests"
+description = "Support module for menu hook testing."
+package = Testing
+version = VERSION
+core = 8.x
+hidden = TRUE
+dependencies[] = test_page_test
+dependencies[] = menu
+
+; Information added by drupal.org packaging script on 2013-03-06
+version = "8.x-dev"
+core = "8.x"
+project = "drupal"
+datestamp = "1362531407"
+

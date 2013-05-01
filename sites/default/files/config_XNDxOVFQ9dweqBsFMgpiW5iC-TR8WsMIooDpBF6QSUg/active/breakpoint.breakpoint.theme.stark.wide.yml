@@ -1,0 +1,12 @@
+id: theme.stark.wide
+uuid: 22bfd434-e9dc-4229-b001-1e7411fcf088
+name: wide
+label: wide
+mediaQuery: 'all and (min-width: 960px)'
+source: stark
+sourceType: theme
+weight: '2'
+multipliers:
+  1x: 1x
+status: '1'
+langcode: und

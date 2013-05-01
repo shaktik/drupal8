@@ -1,0 +1,24 @@
+id: node.article.teaser
+uuid: 9c4d59e1-cf1a-4bc7-9109-09ed391c1333
+targetEntityType: node
+bundle: article
+viewMode: teaser
+content:
+  body:
+    label: hidden
+    type: text_summary_or_trimmed
+    weight: '0'
+    settings:
+      trim_length: '600'
+  field_tags:
+    type: taxonomy_term_reference_link
+    weight: '10'
+    label: above
+    settings: {  }
+  field_image:
+    label: hidden
+    type: image
+    settings:
+      image_style: medium
+      image_link: content
+    weight: '-1'
