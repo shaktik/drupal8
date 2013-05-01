@@ -496,6 +496,7 @@ $settings['update_free_access'] = FALSE;
  * issues.
  */
 
+
 /**
  * Some distributions of Linux (most notably Debian) ship their PHP
  * installations with garbage collection (gc) disabled. Since Drupal depends on
